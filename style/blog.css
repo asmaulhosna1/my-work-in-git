@@ -1,6 +1,12 @@
 .pera{
     color: brown;
     font-size: large;
+    background-color: rgb(29, 28, 88); 
+    padding: 20px;
+    margin: 5%;
+    border: 10px solid yellowgreen;
+    border-radius: 20px;
+    box-shadow: 10px 10px ;
 }
 .style{
     background-color: aqua;
